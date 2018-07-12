@@ -6,5 +6,5 @@
 * [How to apply Parameters](untitled.md)
 * [How to code using...](how-to-code-using....md)
 * [How to fix code errors](how-to-fix-code-errors.md)
-* [How to build devices and appliances](how-to-build-devices-and-appliances.md)
+* [How to build Semicom devices and appliances](how-to-build-devices-and-appliances.md)
 
