@@ -1,8 +1,8 @@
 ---
 description: >-
-  This is the the user guide and instruction manual for the Superwikia
-  Pentelebets; an ASCII conforming typeset for use in extensible computation and
-  framework. To use this manual, please read below.
+  This is the user guide and instruction manual for the Superwikia Pentelebets;
+  an ASCII conforming typeset for use in extensible computation and framework.
+  To use this manual, please read below.
 ---
 
 # Start page
