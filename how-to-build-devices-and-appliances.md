@@ -1,3 +1,7 @@
+---
+description: Introduction to Semicom Appliances and Devices for Superwikia  Pentelebets-
+---
+
 # How to build Semicom devices and appliances
 
 **Standards and Features-**The "Pagent" is the smallest element in the Pentelebet's Transcom circuit. It is a simple semicom device similar to a microcontroller that maintains the exhibit and display data of its main embedded system.
@@ -50,4 +54,26 @@ There are seven \(7\) regions of all beamplan architecture:
     **Socket Carrier**: 
 
          Semicom device form factor.
+
+
+
+The Pentelebets system of programming is used by engineers and scientists to compute large processes and enterprise grade networking of data. Although based upon the QWERTY characters on any keyboard, their usage does not build words and paragraphs, but form a series of number crunching parse processes. 
+
+In embedded Pentelebets; \(languages that have already been encoded in a package or machine\) there are seven types of characters,  
+
+1. Stationary 
+2. Transcom 
+3. Ancilliary 
+4. Packaging 
+5. Layering 
+6. Environmental 
+7. Super-Cluster 
+
+* The first type "stationary" is locked into its host machine and programmed according to ports and slots of its carrier package. 
+* The second type ; "transcom" is parsed against the first in a series of inspections to check for matching COI designator tags. 
+* The third type; "Ancilliary" is used by codesmiths to maintain security routines or encrypted  data. 
+* The fourth type; "packaging" is used to package SoC, FPGA, VHDL and other refactored or repurposed documents. 
+* The fifth type; "layering" is used when debugging or building more developed code output. 
+* The sixth type; "environmental" is used in buffering designators and or DFN data that is passed by the designated within the Transcom. 
+* The seventh type; "super-cluster" is used to archive or compress voluminous data. 
 
