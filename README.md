@@ -12,11 +12,11 @@ description: >-
 | **Subject** | **Page** |
 | --- | --- | --- | --- | --- | --- | --- |
 | [What are Pentelebets?](what-are-pentelebets.md) | 1 |
-| [How to install](how-to-install.md) | 3 |
-| [How to apply parameters](untitled.md) | 4 |
-| [How to code using...](how-to-code-using....md) | 5 |
-| [How to fix code errors](how-to-fix-code-errors.md) | 7 |
-| [How to build devices and appliances](how-to-build-devices-and-appliances.md) | 8 |
+| [How to install](how-to-install.md) | 2 |
+| [How to apply parameters](untitled.md) | 3 |
+| [How to code using...](how-to-code-using....md) | 4 |
+| [How to fix code errors](how-to-fix-code-errors.md) | 5 |
+| [How to build devices and appliances](how-to-build-devices-and-appliances.md) | 6 |
 
 ## 
 
